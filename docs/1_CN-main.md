@@ -9,12 +9,12 @@ description: DewBypass指南
 ## 入门
 如何开始使用DewBypass平台的说明。
 ### 下载
-您可以随时在[这里](https://dew.cab)下载最新的DewBypass装载程序。
+您可以随时在[这里](/Download/DewLoader3.0.0.0.zip)下载最新的DewBypass装载程序。
 
 > *请确保你的装载器是从这里下载的,确保DewBypass加载器无任何蠕虫木马感染,否则会导致某些防封效果失效*    
 >*你可以通过以下算法校验你的ZIP压缩包 *  
-md5: ``  
-sha256: ``
+md5: `fcaed87dd6823eeb9ed58aa43d220f60`  
+sha256: `09ad6deea32c40d4eee88c26ae35a810793f6aef77da8742d0e2937aaa9b340e`
 
 ---
 
