@@ -10,7 +10,7 @@ slug: /
 Instructions on how to get started with the DewBypass platform.  
 如果你想访问中文指南,请[点击](./CN-main)
 ### Download
-You can always download the latest DewBypass loader [here](/Download/DewLoader3.0.0.0.zip).
+You can always download the latest DewBypass loader [here](./Download/DewLoader3.0.0.0.zip).
 
 > *Please make sure that your loader is downloaded from here, and that the DewBypass loader is free of any worm infections, as this may cause some anti-blocking effects to fail.    
 >*You can verify your ZIP archive by the following algorithm  

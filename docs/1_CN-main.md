@@ -9,7 +9,7 @@ description: DewBypass指南
 ## 入门
 如何开始使用DewBypass平台的说明。
 ### 下载
-您可以随时在[这里](/Download/DewLoader3.0.0.0.zip)下载最新的DewBypass装载程序。
+您可以随时在[这里](./Download/DewLoader3.0.0.0.zip)下载最新的DewBypass装载程序。
 
 > *请确保你的装载器是从这里下载的,确保DewBypass加载器无任何蠕虫木马感染,否则会导致某些防封效果失效*    
 >*你可以通过以下算法校验你的ZIP压缩包 *  
