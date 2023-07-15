@@ -42,6 +42,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         logo: {
           alt: 'Wiz Logo',
           src: 'img/favicon.ico',
+          //url: 'https://baidu.com',
         },
         items: [
           // {
